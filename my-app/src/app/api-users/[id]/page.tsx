@@ -21,6 +21,7 @@ export default function User() {
     return (
         <>
             <div className="table-container">
+                
                 <table className="user-table">
                     <thead>
                         <tr>
